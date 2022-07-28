@@ -23,7 +23,7 @@ const Home = () => {
         <article className="articleOne">
             <section className="sectionOne">
                 <h1>Helping you find the property of your dreams.</h1>
-                <p>Creating quality urban lifestyles, building stronger communities</p>
+                <p>Creating quality toyib urban lifestyles, building stronger communities</p>
                 <div>
                     <button>Learn More</button><i className="fas fa-circle-play fa-2x" onClick={pressPlay}></i>
                     <audio src={audio} className="audio"></audio><i className="fas fa-circle-pause fa-2x" onClick={pressPause}></i>
